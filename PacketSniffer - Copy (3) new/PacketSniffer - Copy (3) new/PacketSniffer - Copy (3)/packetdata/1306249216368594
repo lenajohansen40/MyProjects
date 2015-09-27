@@ -1,0 +1,7 @@
+GET /static/tld/effective_tld_names.dat.gz.1 HTTP/1.0
+Accept-Language: en-us
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; Win32; Commtouch Http Client)
+If-Modified-Since: Tue, 24 May 2011 08:16:44 GMT
+Host: download.ctmail.com
+

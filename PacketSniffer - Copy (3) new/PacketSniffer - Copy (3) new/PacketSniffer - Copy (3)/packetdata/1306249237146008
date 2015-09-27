@@ -1,0 +1,7 @@
+%2Ftranslate%5Furl%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dslv%26lp%3Dpt%5Ffr%26trurl%3D%url" encoding="65001" parse_events="1"/>
+                        <WEBJUMP name="ru_en" href="http://redir.speedbit.com/Redir.asp?id=7504&amp;urldirect=http%3A%2F%2Fbabelfish%2Eyahoo%2Ecom%2Ftranslate%5Furl%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dslv%26lp%3Dru%5Fen%26trurl%3D%url" encoding="65001" parse_events="1"/>
+                        <WEBJUMP name="es_en" href="http://redir.speedbit.com/Redir.asp?id=7504&amp;urldirect=http%3A%2F%2Fbabelfish%2Eyahoo%2Ecom%2Ftranslate%5Furl%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dslv%26lp%3Des%5Fen%26trurl%3D%url" encoding="65001" parse_events="1"/>
+                        <WEBJUMP name="es_fr" href="http://redir.speedbit.com/Redir.asp?id=7504&amp;urldirect=http%3A%2F%2Fbabelfish%2Eyahoo%2Ecom%2Ftranslate%5Furl%3Fdoit%3Ddone%26tt%3Durl%26intl%3D1%26fr%3Dslv%26lp%3Des%5Ffr%26trurl%3D%url" encoding="65001" parse_events="1"/>
+                        <!--Translate commands-->                                
+                        <SWITCHCOMMAND name="sw_ask" command="AskSearch" target="tbscmd_tbs_combo_007669" switchbutton="cmdSearch" switchbmp="http://toolbar.speedbit.com/downloader/xml/Ask-logo-16.png" switchtext=" Search"/>
+                        <SWITCHCOMMAND name="sw_amazon" command="EbayS" target="tbscmd_tbs_combo_007669" switchbutton="cmdSearch" switchb

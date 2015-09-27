@@ -1,0 +1,7 @@
+Input and Output Details
+1) Program is reading inputs from input.txt file.
+2) Program is writing output in output.txt file.
+3) Program is taking input qeuryRequest from query.txt file. 
+
+Rules
+1) Pattern Rules for input output and roman number is are define by using regex in Rules.java file.

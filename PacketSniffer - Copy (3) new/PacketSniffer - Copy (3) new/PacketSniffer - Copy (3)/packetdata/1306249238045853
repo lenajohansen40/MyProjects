@@ -1,0 +1,8 @@
+HTTP/1.1 304 Not Modified
+Server: nginx
+Date: Tue, 24 May 2011 15:00:40 GMT
+Last-Modified: Thu, 19 May 2011 13:42:00 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+

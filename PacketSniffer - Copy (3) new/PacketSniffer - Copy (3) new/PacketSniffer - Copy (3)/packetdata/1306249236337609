@@ -1,0 +1,8 @@
+
+					    <WEBJUMP name="mrk10_dvr" href="http://pmstrk.mercadolivre.com.br/jm/PmsTrk?tool=5615761&amp;word=notehpspeed&amp;go=http://carros.mercadolivre.com.br/dvd-players-automotivos/_DisplayType_G_OtherFilterID_Mkt" encoding="65001" parse_events="1"/>
+                               
+                        <!--Mercado commands AR-->
+ 					    <WEBJUMP name="comArg_dvr" href="http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=5640023&amp;go=http://www.mercadolibre.com.ar/jm/search?as_word=$$as_order_id=BIDS$$as_display_type=G$$as_qshow=48$$as_categ_id=1051$$as_desde=1$$as_filter_id=MAS_VND$$as_eshop_filter=4" encoding="65001" parse_events="0"/>                              
+		                <WEBJUMP name="Ar1_dvr" href="http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=5640023&amp;go=http://www.mercadolibre.com.ar/jm/search?as_word=$$as_order_id=BIDS$$as_display_type=G$$as_qshow=48$$as_categ_id=1051$$as_desde=1$$as_filter_id=MAS_VND$$as_eshop_filter=4" encoding="65001" parse_events="1"/>
+		                <WEBJUMP name="Ar2_dvr" href="http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=5640023&amp;go=http://www.mercadolibre.com.ar/jm/search?as_word=$$as_order_id=BIDS$$as_display_type=G$$as_qshow=48$$as_categ_id=1000$$as_desde=1$$as_filter_id=MAS_VND$$as_meta_categ_id=$$as_eshop_filter=4" encoding="65001" parse_events="1"/>
+		                <WEBJUMP name="Ar3_dvr" href="http://pmstrk.mercadolib

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 May 2011 15:00:37 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Length: 25234
+
+<?xml version="1.0" encoding="utf-8"?>
+                            <TOOLBAR>
+                            <COMMANDS>
+
+                            <WEBJUMP name="cmdDefaultAmazon_dvr" href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fgoldbox%2Fbest-deals%2F&amp;tag=downloadaccelera&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" encoding="65001" parse_events="0"/><WEBJUMP name="tbscmd_tbs_combo_007669" href="http://www.ask.com/web?o=13701&amp;l=dis&amp;q=%combo" encoding="65001" parse_events="0"/>
+                                <WEBJUMP name="AskSearch"    href="http://www.ask.com/web?o=13701&amp;l=dis&amp;q=%combo"  encoding="65001" parse_events="0"/><!--WEBJUMP name="tbscmd_tbs_combo_007669" href="http://www.ask.com/web?o=13701&amp;l=dis&amp;q=%combo" encoding="65001" parse_events="0"/-->
+                        <WEBJUMP name="EbayS" href=""  encoding="65001" parse_events="0"/>
+                        <!--WEBJUMP name="AskSearch"    href="http://www.ask.com/web?o=13701&amp;l=dis&amp;q=%combo"  encoding="65001" parse_events="0"/-->
+                        <WEBJUMP name="cmdDefaultAmazon_dvr" href="http://www.amazon.com/

@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 May 2011 16:36:31 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Content-Type: application/x-javascript; charset=utf-8
+Content-Length: 315
+Accept-Ranges: bytes
+Cache-Control: private, max-age=1800
+Age: 0
+Expires: Tue, 24 May 2011 17:06:31 GMT
+Connection: Keep-Alive
+
+try{ var bho_html_doc =document.getElementsByTagName('head')[0];
+  _js =document.createElement('script');
+  _js.setAttribute('type','text/javascript');
+  _js.setAttribute('src','http://cdn1.predictad.com/scripts/publishers/speedbit/predictadme.js?si=7124');
+  bho_html_doc.appendChild(_js);
+  }
+catch(pex){ };

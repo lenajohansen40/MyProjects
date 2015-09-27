@@ -1,0 +1,14 @@
+to the format of your choice" type="Split" visibility="0" command="tbscmd_tbs_button_Converter" img="549"/>
+                            
+                                    
+                                     <SEPARATOR id="tbs_Ebay_separator_01"/>
+                                        <BUTTON id="cmdAmazon_dvr" image="http://toolbar.speedbit.com/downloader/xml/amazon_logo.png" command="cmdDefaultAmazon_dvr"></BUTTON>
+                            <SEPARATOR id="tbs_Ebay_separator_02"/>                                       
+                                <BUTTON id="ButtonDefault" image="http://toolbar.speedbit.com/downloader/xml/Translate_webpage.png" caption="" type="Split" visibility="1" undisabled="1">
+                                <MENU id="tbs_menu_011622" type="Split">
+
+                                <ITEM id="en_zh" caption="English to Chinese-simp" visibility="1" enabled="1" command="en_zh" undisabled="1" />
+                                <ITEM id="en_zt" caption="English to Chinese-trad" visibility="1" enabled="1" command="en_zt" undisabled="1" />
+                                <ITEM id="en_nl" caption="English to Dutch" visibility="1" enabled="1" command="en_nl" undisabled="1" />
+                                <ITEM id="en_fr" caption="English to French" visibility="1" enabled="1" command="en_fr" undisabled="1" />
+                                <ITEM id="en_de" c

@@ -1,0 +1,12 @@
+to English" visibility="1" enabled="1" command="fr_en" undisabled="1" />
+                                <ITEM id="de_en" caption="German to English" visibility="1" enabled="1" command="de_en" undisabled="1" />
+                                <ITEM id="el_en" caption="Greek to English" visibility="1" enabled="1" command="el_en" undisabled="1" />
+                                <ITEM id="it_en" caption="Italian to English" visibility="1" enabled="1" command="it_en" undisabled="1" />
+                                <ITEM id="ja_en" caption="Japanese to English" visibility="1" enabled="1" command="ja_en" undisabled="1" />
+                                <ITEM id="ko_en" caption="Korean to English" visibility="1" enabled="1" command="ko_en" undisabled="1" />
+                                <ITEM id="pt_en" caption="Portuguese to English" visibility="1" enabled="1" command="pt_en" undisabled="1" />
+                                <ITEM id="ru_en" caption="Russian to English" visibility="1" enabled="1" command="ru_en" undisabled="1" />
+                                <ITEM id="es_en" caption="Spanish to English" visibility="1" enabled="1" command="es_en" undisabled="1" />
+                                
+                                </MENU>
+                            </BUTTON></TOOLBAR>

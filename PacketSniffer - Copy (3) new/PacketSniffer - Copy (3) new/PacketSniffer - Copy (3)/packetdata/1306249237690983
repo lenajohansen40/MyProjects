@@ -1,0 +1,12 @@
+GET /adServe/static/btgentr-sb.html?tid=SPBIT03 HTTP/1.1
+Host: clkads.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20100101 Firefox/4.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Cookie: ads1_SPBIT03=; current_term1_SPBIT03=; uid=3061290088
+If-Modified-Since: Thu, 19 May 2011 13:42:00 GMT
+

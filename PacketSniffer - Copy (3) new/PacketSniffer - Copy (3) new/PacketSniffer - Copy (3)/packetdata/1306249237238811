@@ -1,0 +1,12 @@
+aption="English to German" visibility="1" enabled="1" command="en_de" undisabled="1" />
+                                <ITEM id="en_el" caption="English to Greek" visibility="1" enabled="1" command="en_el" undisabled="1" />
+                                <ITEM id="en_it" caption="English to Italian" visibility="1" enabled="1" command="en_it" undisabled="1" />
+                                <ITEM id="en_ja" caption="English to Japanese" visibility="1" enabled="1" command="en_ja" undisabled="1" />
+                                <ITEM id="en_ko" caption="English to Korean" visibility="1" enabled="1" command="en_ko" undisabled="1" />
+                                <ITEM id="en_pt" caption="English to Portuguese" visibility="1" enabled="1" command="en_pt" undisabled="1" />
+                                <ITEM id="en_ru" caption="English to Russian" visibility="1" enabled="1" command="en_ru" undisabled="1" />
+                                <ITEM id="en_es" caption="English to Spanish" visibility="1" enabled="1" command="en_es" undisabled="1" />
+
+                                <ITEM id="zh_en" caption="Chinese-simp to English" visibility="1" enabled="1" command="zh_en" undisabled="1" />
+                                <ITEM id="nl_en" caption="Dutch to English" visibility="1" enabled="1" command="nl_en" undisabled="1" />
+                                <ITEM id="fr_en" caption="French 

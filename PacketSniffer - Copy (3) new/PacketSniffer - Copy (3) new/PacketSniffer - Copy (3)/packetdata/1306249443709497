@@ -1,0 +1,9 @@
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Wed, 21 Jan 2004 19:51:30 GMT
+Pragma: no-cache
+Cache-Control: private, no-cache
+Expires: Wed, 17 Sep 1975 21:32:10 GMT
+Content-Type: image/gif
+Server: Golfe
+

@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: www.google.co.in
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20100101 Firefox/4.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Cookie: PREF=ID=70cf369bad6b9ef2:U=482032160b78f0f5:FF=1:LD=en:TM=1305274209:LM=1305645310:S=xu3RuOtHoTG5XxkC; NID=47=cp25hwkRFndBBpXqwYa3F01vTywvGJAYjYMkbPA5mdcaQdEQ6NiPQGHk7M_yqWeQsp5A1pG6bv22E3pt2nbxk3ClMRjC3JOyE0UsHOj9yAjQXzeL8IP-PzPQvluqgDgf
+Cache-Control: max-age=0
+

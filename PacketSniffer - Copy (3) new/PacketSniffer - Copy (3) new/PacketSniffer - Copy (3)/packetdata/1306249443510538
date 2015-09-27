@@ -1,0 +1,12 @@
+GET /csi?v=3&s=webhp&action=&e=17259,28505,29050,29685,29758,29795,29859,30173,30219,30275,30395,30407,30434&ei=5MjbTbKAJYLirAe9w7TDAg&expi=17259,28505,29050,29685,29758,29795,29859,30173,30219,30275,30395,30407,30434&imc=0&imn=0&imp=0&rt=xjsls.22,prt.33,xjses.411,xjsee.433,xjs.451,ol.681,iml.33 HTTP/1.1
+Host: www.google.co.in
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20100101 Firefox/4.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.google.co.in/
+Cookie: PREF=ID=70cf369bad6b9ef2:U=482032160b78f0f5:FF=1:LD=en:TM=1305274209:LM=1305645310:S=xu3RuOtHoTG5XxkC; NID=47=cp25hwkRFndBBpXqwYa3F01vTywvGJAYjYMkbPA5mdcaQdEQ6NiPQGHk7M_yqWeQsp5A1pG6bv22E3pt2nbxk3ClMRjC3JOyE0UsHOj9yAjQXzeL8IP-PzPQvluqgDgf
+

@@ -1,0 +1,15 @@
+mp="http://toolbar.speedbit.com/downloader/xml/Ebay-logo-16.png" switchtext=" Search"/>
+                        <HIGHLIGHT name="Highlight_grbr"/>
+                        </COMMANDS>
+                        <COMBO id="cmbSearch" name="combo" dwidth="200" fname="Tahoma" fsize="13" kind="editable" limit="1024" histmax="10" ptext="" command="tbscmd_tbs_combo_007669">
+                     <WIDTH>200</WIDTH>
+                     </COMBO>
+                     <BUTTON id="cmdSearch" caption="Ask" image="http://toolbar.speedbit.com/downloader/xml/Ask-logo-16.png" command="tbscmd_tbs_combo_007669"/>
+
+                     <BUTTON id="cmdHighlight" caption="" hint="Highlight" type="Split" visibility="1" command="Highlight_grbr" img="546"/>
+                     <SEPARATOR id="tbs_separator_004619" resizeable="0"/>
+			<BANNER width="180" height="20" url="http://clkads.com/adServe/static/btgentr-sb.html?tid=SPBIT03" id="affbanner"/>
+			<SEPARATOR id="sep3b" resizeable="0"/>
+                     <BUTTON id="tb_btn_download" name="tb_btn_download" caption="Download video" hint="Download the video that is currently playing" command="CMD_DOWNLOAD_BUTTON" image="video.png" plugin="Grabber:GR1"/>
+                     <!--SEPARATOR id="tbs_separator_004620" resizeable="0"/-->
+                     <BUTTON id="tbs_button_Converter" name="tbs_button_Converter" caption="Video converter" hint="Convert videos 

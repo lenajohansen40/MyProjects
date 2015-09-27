@@ -1,0 +1,12 @@
+GET /adServe/findAd?num=2&keyword=&tid=SPBIT03&type=js&ts=t&ar=t HTTP/1.1
+Host: clkads.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20100101 Firefox/4.0
+Accept: */*
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://clkads.com/adServe/static/btgentr-sb.html?tid=SPBIT03
+Cookie: uid=3061290088
+
